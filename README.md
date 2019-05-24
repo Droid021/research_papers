@@ -1,5 +1,5 @@
 # Research Papers Implementations
-A repository of me implementing some of the papers from arxiv and just fun stuff with AI mainly using PyTorch
+A repository implementing some of the papers from arxiv and just fun stuff with AI mainly using PyTorch
 
 ## 1. Using Deep Learning for Image-Based Plant Disease Detection
 
